@@ -1,0 +1,19 @@
+{
+  "name": "imk-atm-machine",
+  "version": "1.0.0",
+  "description": "CLI based ATM machine with Typescript, Node.js and Inquirer. This project is developed by Imad Ul Islam. To use this project run this command on your cmd => npx imk-atm-machine",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IMAD ISLAM",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
